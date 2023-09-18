@@ -1,0 +1,39 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    text-align: justify;
+}
+
+#box{
+
+    width: auto;
+    height: auto;
+    margin: auto;
+
+}
+
+#header{
+    background-color: #dfd5d5;
+    padding: 20px;
+}
+
+#menubar{
+    background-color: #e4e4e4;
+    margin: auto;
+}
+
+.teksmenu{
+    text-decoration: none;
+}
+
+#konten{
+    padding: 20px;
+}
+
+#footer{
+    background-color: #999494;
+    padding: 20px;
+}
